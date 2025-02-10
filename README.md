@@ -20,7 +20,7 @@ Make sure you have Python 3.x installed. Additionally, install the required depe
 
 Clone the repository and navigate to the project folder:
 
-``git clone https://github.com/yourusername/mbox-splitter.git
+``git clone https://github.com/grayarea/mbox-splitter.git
 cd mbox-splitter``  
 
 ## 🔧 Usage
