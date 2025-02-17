@@ -72,6 +72,6 @@ MIT License. See LICENSE for details.
 
 ## 📧 Contact
 
-For questions or support, open an issue on GitHub or reach out to your-email@example.com.  
+For questions or support, open an issue on GitHub.
 
 ## 🚀 Enjoy hassle-free .mbox splitting! 🎯
