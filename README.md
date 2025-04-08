@@ -25,6 +25,8 @@ cd mbox-splitter``
 
 ## 🔧 Usage
 
+Move .mbox file into MBOX Splitter folder
+
 Run the script with the following command:
 
 ``python mbox-splitter.py <filename.mbox> <size_in_MB>``  
